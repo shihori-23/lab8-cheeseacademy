@@ -1,1 +1,1 @@
-# lab8-cheeseacademy
+# lab-8-cheese-academy
